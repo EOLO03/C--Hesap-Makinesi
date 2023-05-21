@@ -1,0 +1,20 @@
+F:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\bin\Debug\Hesap makinesi.exe.config
+F:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\bin\Debug\Hesap makinesi.exe
+F:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\bin\Debug\Hesap makinesi.pdb
+F:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.csprojAssemblyReference.cache
+F:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap_makinesi.Form1.resources
+F:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap_makinesi.Properties.Resources.resources
+F:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.csproj.GenerateResource.cache
+F:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.exe
+F:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.pdb
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\bin\Debug\Hesap makinesi.exe.config
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\bin\Debug\Hesap makinesi.exe
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\bin\Debug\Hesap makinesi.pdb
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.csproj.AssemblyReference.cache
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.csproj.SuggestedBindingRedirects.cache
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap_makinesi.Form1.resources
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap_makinesi.Properties.Resources.resources
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.csproj.GenerateResource.cache
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.csproj.CoreCompileInputs.cache
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.exe
+E:\murat yücedağ derleri C#\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.pdb

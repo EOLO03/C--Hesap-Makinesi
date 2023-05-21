@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fb656f3-34b8-4a4d-b7e2-5abc933aafcf": {
+      "ProjectGuid": "9fb656f3-34b8-4a4d-b7e2-5abc933aafcf",
+      "DisplayName": "Hesap makinesi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
